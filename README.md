@@ -74,6 +74,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thejandeera&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thejandeera&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 ---

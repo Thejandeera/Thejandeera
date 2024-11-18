@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Thejandeera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Thejandeera-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <h1 align="center">Hi there, I'm Thejandeera Sandeepana 👋</h1>
 <h3 align="center">Aspiring Innovator & Full-Stack Developer</h3>
 
@@ -13,13 +19,12 @@
 
 - 💻 **Computer Science student** with a passion for **web development**, **IoT**, and **AI**.  
 - 🚀 I enjoy solving complex problems and building meaningful applications that can improve lives.  
-- 🌱 Currently working on various personal projects, including a **fitness tracker** and a **chat application**.
+- 🌱 Currently working on various personal projects, including a **fitness tracker** and a **chat application**.  
 - 📈 Aspiring **entrepreneur** with a vision to create impactful technologies.  
 
 ---
 
 ### 🌐 Connect with Me  
-
 
 <div align="center"> 
   <a href="mailto:thejan1010@gmail.com" target="blank">
@@ -29,7 +34,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://thejandeerasandeepana.netlify.app" target="blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -76,7 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Thejandeera&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejandeera&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
 </p>
 
 ---
@@ -89,15 +93,12 @@
 ---
 
 ### 📚 Currently Exploring
-- **Machine Learning and AI Accelerators:** Writing a report on GPU and FPGA architectures for machine learning applications.
-- **Web Development:** Enhancing my skills in modern JavaScript frameworks and cloud integration.
+- **Machine Learning and AI Accelerators:** Writing a report on GPU and FPGA architectures for machine learning applications.  
+- **Web Development:** Enhancing my skills in modern JavaScript frameworks and cloud integration.  
 
 ---
 
-### ⚡ Fun Fact
-- I love experimenting with new tech tools and integrating them into my projects to create something unique! 🎮
+### ⚡ Fun Fact  
+- I love experimenting with new tech tools and integrating them into my projects to create something unique! 🎮  
 
 ---
-
-
-

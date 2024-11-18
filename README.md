@@ -94,6 +94,7 @@
 - I love experimenting with new tech tools and integrating them into my projects to create something unique! 🎮
 
 ---
+
 - https://github.com/Thejandeera/Thejandeera/blob/output/github-contribution-grid-snake.gif
 
 

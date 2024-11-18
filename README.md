@@ -86,8 +86,8 @@
 ---
 
 ### 🏆 Achievements  
-- **Volunteer Work:** Active volunteer with YAN Sri Lanka  
-- **Leadership Role:** Former president of the school photography club  
+- **Volunteer Work:** Active volunteer with YAN Sri Lanka  , Member of IEEE Society , Member of SLIIT FOSS club , Member of SLIIT MS Club 
+- **Leadership Role:** Former president of the school photography club  , Member of Several Clubs
 - **Fullstack Development Program:** Completed a comprehensive program with courses in Python, Web Design, Front-End, and Server-Side Web Development.
 
 ---

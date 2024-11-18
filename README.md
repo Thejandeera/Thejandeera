@@ -1,10 +1,7 @@
-<p align="center">
-  <a href="https://github.com/Thejandeera" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Thejandeera-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<h1 align="center">Hi there, I'm Thejandeera Sandeepana 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thejandeera+Sandeepana!;" />
+</h1>
+<h1 align="center">Thejandeera Sandeepana 👋</h1>
 <h3 align="center">Aspiring Innovator & Full-Stack Developer</h3>
 
 <p align="center">

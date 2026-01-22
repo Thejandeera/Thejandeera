@@ -55,22 +55,7 @@
 
 ---
 
-### 📂 Projects
 
-#### 1. **Fitness Island**  
-- **Description:** A fitness tracking web app to monitor weight and workout times.  
-- **Features:**  
-  - Track weight and workout duration  
-  - Data visualization with interactive graphs  
-  - Saves user-entered data into spreadsheets  
-- **Link:** [Visit the Project](https://fitnessisland.netlify.app/)
-
-#### 2. **Chat Web Application**  
-- **Description:** A real-time messaging application with signup, login, and chat features.  
-- **Technologies:** React, Node.js, MongoDB, WebSockets  
-- **Link:** [Visit the Project](https://yourchatapp.example.com)
-
----
 
 ### 📊 GitHub Stats & Contributions  
 <p align="center">

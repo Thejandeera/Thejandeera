@@ -67,21 +67,5 @@
 
 ---
 
-### 🏆 Achievements  
-- **Volunteer Work:** Active volunteer with YAN Sri Lanka  , Member of IEEE Society , Member of SLIIT FOSS club , Member of SLIIT MS Club 
-- **Leadership Role:** Former president of the school photography club  , Member of Several Clubs
-- **Fullstack Development Program:** Completed a comprehensive program with courses in Python, Web Design, Front-End, and Server-Side Web Development.
 
----
-
-### 📚 Currently Exploring
-- **Machine Learning and AI Accelerators:** Writing a report on GPU and FPGA architectures for machine learning applications.  
-- **Web Development:** Enhancing my skills in modern JavaScript frameworks and cloud integration.  
-
----
-
-### ⚡ Fun Fact  
-- I love experimenting with new tech tools and integrating them into my projects to create something unique! 🎮  
-
----
 
